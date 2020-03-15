@@ -1,6 +1,6 @@
 # OpenChatter
 
-OpenChatter is an open source customizable chatroom web app written in PHP. OpenChatter is based off of work done for Chatter, although the vast majority of code is rewritten. 
+OpenChatter is an open source customizable chatroom web app written in PHP. OpenChatter is based off of work done for Chatter, although the vast majority of code is rewritten. [Here](http://openchatter.herokuapp.com/) you can find a heroku instance running OpenChatter, please note that heroku would not be good to run an instance in the real work because it would delete your chatfile.txt. Something like [000webhost](https://www.000webhost.com/) would be much more suitable.
 
 ### Features
 Here is a short(or long) list of features in OpenChatter(not to brag):
