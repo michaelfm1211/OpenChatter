@@ -84,8 +84,6 @@
 							message_type = "message";
 						}
 
-						// <span class="font-weight-bold author-text">Author A:</span>
-
 						var div = `	<div class="card pt-2 pr-2 pl-2 mb-5 ` + message_type + `">
 										<span class="font-weight-bold author-text">` + author + `:</span>
 										<div class="card-body message-text">

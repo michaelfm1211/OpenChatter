@@ -1,0 +1,9 @@
+# OpenChatter
+
+OpenChatter is an open source customizable chatroom web app written in PHP. OpenChatter is based off of work done for Chatter, although the vast majority of code is rewritten. 
+
+### Features
+Here is a short(or long) list of features in OpenChatter(not to brag):
+- Google Authentication, unlike other chatrooms, OpenChatter lets others verify one's identity by showing the name on one's google account and not what someone put in
+- Customizability, OpenChatter lets you easily customize multiple variables to make OpenChatter work how you want
+- Privacy, the number one goal of OpenChatter is privacy, and for real. Privacy is hard on a chatroom, but OpenChatter tries to get it done. OpenChatter doesn't store or store your account data. The only data stored by OpenChatter is what you chat(for obvious reasons), but OpenChatter does use Google Cloud, but only for authentication.
