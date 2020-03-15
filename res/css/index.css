@@ -1,0 +1,22 @@
+.message {
+	width: 51%;
+	border-radius: 0px 20px 20px 20px;
+}
+
+.mymessage {
+	width: 51%;
+	float: right;
+	border-radius: 20px 0px 20px 20px;
+}
+
+.author-text {
+	font-size:13px;
+}
+
+.message-text {
+	font-size:20px;
+}
+
+#footer {
+	background-color: rgb(247, 247, 247);
+}
